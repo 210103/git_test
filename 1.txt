@@ -1,1 +1,2 @@
-the first file in test 
+the first file in test
+a line is added
