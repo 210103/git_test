@@ -1,1 +1,2 @@
 the second tested file in test repository
+add an exceptional line
